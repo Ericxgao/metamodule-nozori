@@ -1,0 +1,17 @@
+{
+  "slug": "Nozoid",
+  "name": "Nozoid",
+  "version": "2.1.3",
+  "license": "GPL-3.0-or-later",
+  "brand": "nozoïd",
+  "author": "Cyrille Henry",
+  "authorEmail": "vcv@nozoid.com",
+  "authorUrl": "https://nozoid.com",
+  "pluginUrl": "https://nozoid.com/nozori",
+  "manualUrl": "https://nozoid.com/nozori",
+  "sourceUrl": "https://github.com/ch-nry/VCV_nozori",
+  "donateUrl": "https://www.paypal.me/chnry",
+  "changelogUrl": "https://github.com/ch-nry/VCV_nozori/blob/master/changelog.md",
+  "modules": [
+  ]
+}
