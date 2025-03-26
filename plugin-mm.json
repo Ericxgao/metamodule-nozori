@@ -3,5 +3,194 @@
     "MetaModulePluginMaintainerEmail": "",
     "MetaModulePluginMaintainerUrl": "",
     "MetaModuleDescription": "",
-    "MetaModuleIncludedModules": []
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Nozori_68_ADSR",
+            "name": "Nozori_68_ADSR"
+        },
+        {
+            "slug": "Nozori_68_AR",
+            "name": "Nozori_68_AR"
+        },
+        {
+            "slug": "Nozori_68_CRUSH",
+            "name": "Nozori_68_CRUSH"
+        },
+        {
+            "slug": "Nozori_68_CV_REC",
+            "name": "Nozori_68_CV_REC"
+        },
+        {
+            "slug": "Nozori_68_DELAY",
+            "name": "Nozori_68_DELAY"
+        },
+        {
+            "slug": "Nozori_68_EQ",
+            "name": "Nozori_68_EQ"
+        },
+        {
+            "slug": "Nozori_68_GRAN",
+            "name": "Nozori_68_GRAN"
+        },
+        {
+            "slug": "Nozori_68_KS",
+            "name": "Nozori_68_KS"
+        },
+        {
+            "slug": "Nozori_68_LFO",
+            "name": "Nozori_68_LFO"
+        },
+        {
+            "slug": "Nozori_68_LFO_MOD",
+            "name": "Nozori_68_LFO_MOD"
+        },
+        {
+            "slug": "Nozori_68_NOISE",
+            "name": "Nozori_68_NOISE"
+        },
+        {
+            "slug": "Nozori_68_PITCH",
+            "name": "Nozori_68_PITCH"
+        },
+        {
+            "slug": "Nozori_68_RND_LOOP",
+            "name": "Nozori_68_RND_LOOP"
+        },
+        {
+            "slug": "Nozori_68_SIN_MOD",
+            "name": "Nozori_68_SIN_MOD"
+        },
+        {
+            "slug": "Nozori_68_VCA_PAN",
+            "name": "Nozori_68_VCA_PAN"
+        },
+        {
+            "slug": "Nozori_68_VCF_MOD",
+            "name": "Nozori_68_VCF_MOD"
+        },
+        {
+            "slug": "Nozori_68_VCF_MORPH",
+            "name": "Nozori_68_VCF_MORPH"
+        },
+        {
+            "slug": "Nozori_68_VCO",
+            "name": "Nozori_68_VCO"
+        },
+        {
+            "slug": "Nozori_68_VCO_LOOP",
+            "name": "Nozori_68_VCO_LOOP"
+        },
+        {
+            "slug": "Nozori_68_VCO_MORPH",
+            "name": "Nozori_68_VCO_MORPH"
+        },
+        {
+            "slug": "Nozori_68_VCO_QTZ",
+            "name": "Nozori_68_VCO_QTZ"
+        },
+        {
+            "slug": "Nozori_68_VCO_WS",
+            "name": "Nozori_68_VCO_WS"
+        },
+        {
+            "slug": "Nozori_68_WS",
+            "name": "Nozori_68_WS"
+        },
+        {
+            "slug": "Nozori_84_8_BITS",
+            "name": "Nozori_84_8_BITS"
+        },
+        {
+            "slug": "Nozori_84_ADD",
+            "name": "Nozori_84_ADD"
+        },
+        {
+            "slug": "Nozori_84_ADSR",
+            "name": "Nozori_84_ADSR"
+        },
+        {
+            "slug": "Nozori_84_CLOCK",
+            "name": "Nozori_84_CLOCK"
+        },
+        {
+            "slug": "Nozori_84_DOPPLER",
+            "name": "Nozori_84_DOPPLER"
+        },
+        {
+            "slug": "Nozori_84_FM",
+            "name": "Nozori_84_FM"
+        },
+        {
+            "slug": "Nozori_84_FM_LIN",
+            "name": "Nozori_84_FM_LIN"
+        },
+        {
+            "slug": "Nozori_84_HARMONICS",
+            "name": "Nozori_84_HARMONICS"
+        },
+        {
+            "slug": "Nozori_84_JONG_LFO",
+            "name": "Nozori_84_JONG_LFO"
+        },
+        {
+            "slug": "Nozori_84_JONG_VCO",
+            "name": "Nozori_84_JONG_VCO"
+        },
+        {
+            "slug": "Nozori_84_LFO",
+            "name": "Nozori_84_LFO"
+        },
+        {
+            "slug": "Nozori_84_LFO_SEQ",
+            "name": "Nozori_84_LFO_SEQ"
+        },
+        {
+            "slug": "Nozori_84_MODULATE",
+            "name": "Nozori_84_MODULATE"
+        },
+        {
+            "slug": "Nozori_84_PARAM",
+            "name": "Nozori_84_PARAM"
+        },
+        {
+            "slug": "Nozori_84_SEQ_4",
+            "name": "Nozori_84_SEQ_4"
+        },
+        {
+            "slug": "Nozori_84_SEQ_8",
+            "name": "Nozori_84_SEQ_8"
+        },
+        {
+            "slug": "Nozori_84_SIN_AM",
+            "name": "Nozori_84_SIN_AM"
+        },
+        {
+            "slug": "Nozori_84_SIN_FM",
+            "name": "Nozori_84_SIN_FM"
+        },
+        {
+            "slug": "Nozori_84_SIN_PM",
+            "name": "Nozori_84_SIN_PM"
+        },
+        {
+            "slug": "Nozori_84_SIN_WS",
+            "name": "Nozori_84_SIN_WS"
+        },
+        {
+            "slug": "Nozori_84_THOMAS",
+            "name": "Nozori_84_THOMAS"
+        },
+        {
+            "slug": "Nozori_84_TROPICAL",
+            "name": "Nozori_84_TROPICAL"
+        },
+        {
+            "slug": "Nozori_84_VCF",
+            "name": "Nozori_84_VCF"
+        },
+        {
+            "slug": "Nozori_84_WS",
+            "name": "Nozori_84_WS"
+        }
+    ]
 }
